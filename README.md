@@ -1,4 +1,4 @@
-# Heart Rate Monitor (Arduino) — LCD + Bluetooth + PulseSensor
+# Heart Rate Monitor (Arduino) - LCD + Bluetooth + PulseSensor
 
 A simple Arduino sketch that reads heart rate from a PulseSensor, smooths the BPM with a weighted moving average + low-pass blend, displays it on a 16×2 LCD, and streams both raw and filtered values over Serial and Bluetooth (HC-05).
 
